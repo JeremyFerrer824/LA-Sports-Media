@@ -1,1 +1,1 @@
-# LA-Sports-Media "index.html"
+# LA-Sports-Media
